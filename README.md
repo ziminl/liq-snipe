@@ -14,3 +14,4 @@ https://coinank.com/liqHeatMapChart
 
 # example 
 https://github.com/aoki-h-jp/py-liquidation-map
+https://github.com/hgnx/binance-liquidation-tracker
